@@ -32,5 +32,5 @@ while naudas>0:
     else :
         print("Lūdzu, ievadiet derīgu skaitli.")
         
-if naudas <= 1000:
-    print("Jums vairs nav naudas lai spēlēt (1000). Spēle beigusies.")
+    if naudas <= 1000:
+        print("Jums vairs nav naudas lai spēlēt (1000). Spēle beigusies.")
